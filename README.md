@@ -1,16 +1,18 @@
-# animator_galaxy_planet
+# GALAXY PlANETS
 
-A new Flutter project.
+A Galaxy Planets App Project in Flutter 
 
-## Getting Started
+## Scrrenshot 
+https://user-images.githubusercontent.com/111499824/194774934-acaf1cb3-20a6-4130-a6f9-218254be2809.png
+https://user-images.githubusercontent.com/111499824/194774973-5835a1f0-4a69-4576-a939-3e783c28fa3e.png
+https://user-images.githubusercontent.com/111499824/194774992-fc70678f-9e71-47a2-9a4a-291326e18347.png
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### GIF
+https://user-images.githubusercontent.com/111499824/194775046-42f7797f-fc16-4162-915a-51f753ed0164.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+.
+
+
